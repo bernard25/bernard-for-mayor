@@ -1,0 +1,2 @@
+# bernard-for-mayor
+mayor
